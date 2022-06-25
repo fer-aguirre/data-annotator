@@ -12,6 +12,8 @@ pandas = "*"
 numpy = "*"
 plotly = "*"
 streamlit = "*"
+gsheetsdb = "*"
+configparser = "*"
 
 [dev-packages]
 
