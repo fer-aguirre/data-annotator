@@ -130,5 +130,7 @@ cython_debug/
 .vs*
 
 # Secret files
-config.ini
 .gitsecret/keys/random_seed
+config.ini
+config.yaml
+
